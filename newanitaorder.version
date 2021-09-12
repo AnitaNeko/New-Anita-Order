@@ -1,0 +1,10 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/AnitaNeko/New-Anita-Order/main/newanitaorder.version",
+    "modName":"New Anita Order",
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    },
+}
